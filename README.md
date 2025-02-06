@@ -1,2 +1,2 @@
-# grishasvoboda.github.io
+# grishun.github.io
 Ссылка на мой первыйй сайт расположенный с помощью GitHub pages.
